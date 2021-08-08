@@ -1,0 +1,2 @@
+rootProject.name = "YSDReview"
+include ':app'
