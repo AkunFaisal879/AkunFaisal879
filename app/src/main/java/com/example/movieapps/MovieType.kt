@@ -1,4 +1,4 @@
-package com.example.ysdreview
+package com.example.movieapps
 
 enum class MovieType(val value: String, val id: Int) {
     NOW_PLAYING("Now Playing", 1),

@@ -1,4 +1,4 @@
-package com.example.ysdreview.module.detail
+package com.example.movieapps.module.detail
 
 import android.content.Intent
 import android.net.Uri
@@ -8,9 +8,9 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProvider
 import com.bumptech.glide.Glide
-import com.example.ysdreview.R
-import com.example.ysdreview.data.remote.ApiEndpoint
-import com.example.ysdreview.databinding.ActivityDetailMovieBinding
+import com.example.movieapps.R
+import com.example.movieapps.data.remote.ApiEndpoint
+import com.example.movieapps.databinding.ActivityDetailMovieBinding
 
 class DetailMovieActivity : AppCompatActivity() {
 

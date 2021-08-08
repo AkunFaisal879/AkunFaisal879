@@ -1,4 +1,4 @@
-package com.example.ysdreview.model
+package com.example.movieapps.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

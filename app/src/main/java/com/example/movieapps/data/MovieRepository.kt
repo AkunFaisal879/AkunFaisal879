@@ -1,9 +1,9 @@
-package com.example.ysdreview.data
+package com.example.movieapps.data
 
 import android.content.Context
-import com.example.ysdreview.data.local.MovieLocalDataSource
-import com.example.ysdreview.data.remote.MovieRemoteDataSource
-import com.example.ysdreview.model.MovieDetail
+import com.example.movieapps.data.local.MovieLocalDataSource
+import com.example.movieapps.data.remote.MovieRemoteDataSource
+import com.example.movieapps.model.MovieDetail
 
 class MovieRepository(
     private val context: Context,

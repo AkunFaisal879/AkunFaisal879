@@ -1,4 +1,4 @@
-package com.example.ysdreview.module.main
+package com.example.movieapps.module.main
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -7,10 +7,10 @@ import android.widget.Toast
 import androidx.core.widget.doAfterTextChanged
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProvider
-import com.example.ysdreview.MovieType
-import com.example.ysdreview.R
-import com.example.ysdreview.databinding.ActivityMainBinding
-import com.example.ysdreview.module.detail.DetailMovieActivity
+import com.example.movieapps.MovieType
+import com.example.movieapps.R
+import com.example.movieapps.databinding.ActivityMainBinding
+import com.example.movieapps.module.detail.DetailMovieActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity(), MovieTypeListAdapter.MovieTypeListener,

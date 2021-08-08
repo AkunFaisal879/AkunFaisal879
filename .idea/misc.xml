@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project Android/MovieApps/app/src/main/res/layout/activity_detail_movie.xml" value="0.26132246376811596" />
+        <entry key="..\:/Project Android/MovieApps/app/src/main/res/layout/activity_main.xml" value="0.26132246376811596" />
+        <entry key="..\:/Project Android/MovieApps/app/src/main/res/layout/item_movie.xml" value="0.26132246376811596" />
+        <entry key="..\:/Project Android/MovieApps/app/src/main/res/layout/item_movie_type.xml" value="0.26132246376811596" />
         <entry key="..\:/Project Android/YSDReview/app/src/main/res/layout/activity_main.xml" value="0.16041666666666668" />
         <entry key="..\:/Project Android/YSDReview/app/src/main/res/layout/item_movie.xml" value="0.4466666666666667" />
         <entry key="..\:/Project Android/bootcamp-pedulidigital-second_day/app/src/main/res/layout/activity_main.xml" value="0.14817629179331307" />

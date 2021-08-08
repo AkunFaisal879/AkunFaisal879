@@ -1,7 +1,7 @@
-package com.example.ysdreview.data.remote
+package com.example.movieapps.data.remote
 
-import com.example.ysdreview.model.MovieDetail
-import com.example.ysdreview.model.MovieListResponse
+import com.example.movieapps.model.MovieDetail
+import com.example.movieapps.model.MovieListResponse
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Path

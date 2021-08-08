@@ -1,11 +1,11 @@
-package com.example.ysdreview.module.main
+package com.example.movieapps.module.main
 
 import android.content.Context
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.ysdreview.data.MovieRepository
-import com.example.ysdreview.model.Movie
+import com.example.movieapps.data.MovieRepository
+import com.example.movieapps.model.Movie
 import kotlinx.coroutines.launch
 
 class MainViewModel: ViewModel() {

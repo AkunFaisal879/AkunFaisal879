@@ -1,13 +1,13 @@
-package com.example.ysdreview.module.main
+package com.example.movieapps.module.main
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.example.ysdreview.R
-import com.example.ysdreview.data.remote.ApiEndpoint
-import com.example.ysdreview.model.Movie
+import com.example.movieapps.R
+import com.example.movieapps.data.remote.ApiEndpoint
+import com.example.movieapps.model.Movie
 import kotlinx.android.synthetic.main.item_movie.view.*
 
 class MovieListAdapter(

@@ -1,4 +1,4 @@
-package com.example.ysdreview.data.remote
+package com.example.movieapps.data.remote
 
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor

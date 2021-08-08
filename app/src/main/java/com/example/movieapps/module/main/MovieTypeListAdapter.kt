@@ -1,11 +1,11 @@
-package com.example.ysdreview.module.main
+package com.example.movieapps.module.main
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.ysdreview.MovieType
-import com.example.ysdreview.R
+import com.example.movieapps.MovieType
+import com.example.movieapps.R
 import kotlinx.android.synthetic.main.item_movie_type.view.*
 
 class MovieTypeListAdapter(

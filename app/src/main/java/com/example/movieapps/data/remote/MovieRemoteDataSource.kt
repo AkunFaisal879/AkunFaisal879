@@ -1,7 +1,7 @@
-package com.example.ysdreview.data.remote
+package com.example.movieapps.data.remote
 
-import com.example.ysdreview.model.Movie
-import com.example.ysdreview.model.MovieDetail
+import com.example.movieapps.model.Movie
+import com.example.movieapps.model.MovieDetail
 
 class MovieRemoteDataSource {
 

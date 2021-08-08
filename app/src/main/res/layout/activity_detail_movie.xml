@@ -7,11 +7,11 @@
 
         <variable
             name="movie"
-            type="com.example.ysdreview.model.MovieDetail" />
+            type="com.example.movieapps.model.MovieDetail" />
 
         <variable
             name="activity"
-            type="com.example.ysdreview.module.detail.DetailMovieActivity" />
+            type="com.example.movieapps.module.detail.DetailMovieActivity" />
 
     </data>
 

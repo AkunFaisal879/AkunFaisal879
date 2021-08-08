@@ -1,4 +1,4 @@
-package com.example.ysdreview.model
+package com.example.movieapps.model
 
 data class MovieListResponse(
     val results: List<Movie>

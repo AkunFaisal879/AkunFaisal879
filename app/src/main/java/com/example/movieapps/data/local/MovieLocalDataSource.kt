@@ -1,7 +1,7 @@
-package com.example.ysdreview.data.local
+package com.example.movieapps.data.local
 
 import android.content.Context
-import com.example.ysdreview.model.MovieDetail
+import com.example.movieapps.model.MovieDetail
 
 class MovieLocalDataSource(context: Context) {
 
