@@ -8,7 +8,7 @@
 
     <androidx.cardview.widget.CardView
         android:id="@+id/movieCardView"
-        android:layout_width="310dp"
+        android:layout_width="300dp"
         android:layout_height="450dp"
         app:cardCornerRadius="50dp"
         app:layout_constraintEnd_toEndOf="parent"
